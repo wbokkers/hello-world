@@ -7,3 +7,6 @@ I'm wondering what it's like to use Github for a project that I want to make ope
 
 Regards,
 Wim Bokkers
+
+## This is a proposed change
+Will it make it in the main product? 
